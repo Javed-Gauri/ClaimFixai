@@ -1,0 +1,7 @@
+{
+  "bundled_no_modifier": {
+    "title": "Bundled CPTs without modifier",
+    "why_failed": "NCCI edits indicate bundling.",
+    "how_to_fix": ["Check documentation", "Apply modifier if valid"]
+  }
+}
